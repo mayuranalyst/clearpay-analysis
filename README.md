@@ -1,7 +1,8 @@
 # clearpay-analysis
 
-This is an analysis done by me on Mens and Womens "Active wear" category and "Shoes" Category from Clearpay's official website¶
-Imp Note: Since I dont have sales/costs data, I have used a dummy point system. These do not reflect actual product prices, but just simulate the analysis if I had Sale/cost price data. Just the brand names are real from clearpay's website.
+This is an analysis done by me on Mens and Womens "Active wear" category and "Shoes" Category from Clearpay's official website
+
+**Imp Note: Since I dont have sales/costs data, I have used a dummy point system. These do not reflect actual product prices, but just simulate the analysis if I had Sale/cost price data. Just the brand names are real from clearpay's website (links are given below)**
 
 **Results Of Analysis (Active wear Category):**
 1. Women's Active wear Category has total 284 brands
